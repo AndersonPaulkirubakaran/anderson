@@ -1,9 +1,9 @@
-u=raw_input()
-v=raw_input()
-w=raw_input()
-a=int(u)
-b=int(v)
-c=int(w)
+x=raw_input()
+y=raw_input()
+z=raw_input()
+a=int(x)
+b=int(y)
+c=int(z)
 if((a>=b) and (a>=c)):
 	print a
 elif(b>=a) and (b>=c):
